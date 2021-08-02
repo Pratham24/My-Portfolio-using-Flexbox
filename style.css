@@ -1,0 +1,16 @@
+*{
+    border:solid
+}
+
+.header{
+    background-color:cyan ;
+    display:flex ;
+    justify-content:space-between
+
+}
+.group{
+    background-color: cyan;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between
+}
